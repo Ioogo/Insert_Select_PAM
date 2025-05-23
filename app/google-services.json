@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "425882906436",
+    "project_id": "aulapamfirestore",
+    "storage_bucket": "aulapamfirestore.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:425882906436:android:4bf76dabcec690bc577111",
+        "android_client_info": {
+          "package_name": "com.example.aulafirestore"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEKcEwOylx4Lmba0zsPvCPFG1armGNuGc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
